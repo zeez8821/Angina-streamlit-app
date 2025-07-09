@@ -1,45 +1,8 @@
 pandas==2.1.4
 pandas-dq==1.29
-pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 pillow==10.4.0
-platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
 plotly==5.24.1
-plotly-resampler==0.10.0
-pluggy @ file:///C:/ci/pluggy_1648042746254/work
-ply==3.11
-pmdarima==2.0.4
-polyfactory==2.17.0
-prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/work
-propcache @ file:///D:/bld/propcache_1728545928779/work
-proto-plus @ file:///home/conda/feedstock_root/build_artifacts/proto-plus_1729819349398/work
-protobuf @ file:///D:/bld/protobuf_1728668497421/work/bazel-bin/python/dist/protobuf-5.28.2-cp310-abi3-win_amd64.whl#sha256=fc57b8d440a0b7bf85f818a36f4ec712545512e0a4a83a5349271a0d1c8ecadf
-psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
-py4j==0.10.9.7
-pyasn1_modules @ file:///home/conda/feedstock_root/build_artifacts/pyasn1-modules_1726029546107/work
 pycaret==3.3.2
-pycodestyle @ file:///C:/b/abs_15nuk0qkf0/croot/pycodestyle_1701821084299/work
-pycosat @ file:///D:/bld/pycosat_1696356014994/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pydantic @ file:///home/conda/feedstock_root/build_artifacts/pydantic_1726601062926/work
-pydantic_core @ file:///D:/bld/pydantic-core_1726525117142/work
-pydeck==0.9.1
-pydocstyle @ file:///C:/b/abs_6dz687_5i3/croot/pydocstyle_1675221688656/work
-pydot @ file:///D:/bld/pydot_1726737399298/work
-PyDrive2 @ file:///home/conda/feedstock_root/build_artifacts/pydrive2_1704323336900/work
-pydub==0.25.1
-pyflakes @ file:///C:/b/abs_b6t1aazq2e/croot/pyflakes_1708963020907/work
-pygit2 @ file:///D:/bld/pygit2_1692684575904/work
-Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
-pygtrie @ file:///home/conda/feedstock_root/build_artifacts/pygtrie_1658067487470/work
-pylint @ file:///C:/b/abs_83sq99jc8i/croot/pylint_1676919922167/work
-pylint-venv @ file:///C:/b/abs_3f6p_17zia/croot/pylint-venv_1709837680309/work
-pyls-spyder==0.4.0
-PyNaCl @ file:///C:/Windows/Temp/abs_d5c3ajcm87/croots/recipe/pynacl_1659620667490/work
-pynndescent==0.5.13
-pyod==2.0.2
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1722587090966/work
 streamlit==1.41.1
 
 
